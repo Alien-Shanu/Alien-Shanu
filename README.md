@@ -100,13 +100,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
+<!--  
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Alien-Shanu&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Alien-Shanu/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Alien-Shanu&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Alien-Shanu/Alien-Shanu)
 [![ALIEN RDP](https://github-readme-stats.vercel.app/api/pin/?username=Alien-Shanu&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Alien-Shanu/alien-rdp)
 [![Alien-Shanu Readme](https://github-readme-stats.vercel.app/api/pin/?username=Alien-Shanu&repo=Alien-Shanu&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Alien-Shanu/alien-rdp)  
-
+-->
 <p align="left">
   <a href="https://github.com/Alien-Shanu?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -117,7 +117,7 @@
 
 <p align="center">
   <a href="https://github.com/Alien-Shanu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alien-Shanu&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alien-Shanu&theme=radical&border=7F3FBF&background=0D1117" alt="Alien-Shanu's GitHub streak"/>
   </a>
 </p>
 
