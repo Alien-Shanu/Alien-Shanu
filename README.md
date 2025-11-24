@@ -16,7 +16,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=Alien-Shanu&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
+<a href="https://wakatime.com/@9d93f440-fb1b-4245-b70d-e3ddeb0e526a"><img src="https://wakatime.com/badge/user/9d93f440-fb1b-4245-b70d-e3ddeb0e526a.svg" alt="Total time coded since Oct 21 2025" /></a>
 
 [![wakatime](https://wakatime.com/badge/user/9d93f440-fb1b-4245-b70d-e3ddeb0e526a.svg)](https://wakatime.com/@9d93f440-fb1b-4245-b70d-e3ddeb0e526a)
 <!-- Intro  -->
