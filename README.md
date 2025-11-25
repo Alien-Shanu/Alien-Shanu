@@ -1,4 +1,7 @@
-
+<div align="center" style="width:100%;">
+  <img src="https://i.imgur.com/BFuTIRy.gif" style="width: 1300px; height: 350px; object-fit: fill; object-position: center; display: block; margin: 0 auto; border-top-left-radius:10px; border-top-right-radius:10px;" alt="Banner" />
+</div>
+<br/>
 <h2 align="center">
   Welcome to Alien Shanu's Planet!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
